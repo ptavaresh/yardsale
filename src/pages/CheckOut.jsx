@@ -3,7 +3,7 @@ import OrderItem from '@components/OrderItem';
 import Menu from '@components/Menu';
 import '@styles/Checkout.scss';
 
-const Checkout = () => {
+const CheckOut = () => {
 	return (
 		<div className="Checkout">
 			<div className="Checkout-container">
